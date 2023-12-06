@@ -1,6 +1,6 @@
 # TumourMappingAnalysis
 **Please note: This is an alternative repository containing relevant code for the paper Toward Predicting Nanoparticle Distribution in Heterogeneous Tumour Tissues.**
-**Please refer to @PresleyMacMillan or https://github.com/PresleyMacMillan/TumorMappingAnalysis for the most recent code.**
+**Please refer to https://github.com/PresleyMacMillan/TumorMappingAnalysis for the most recent code.**
 
 Pipeline involves 13 Steps. Steps 1,3-8 use MATLAB v2018b Steps 9-13 use Python v3.6.12
 
